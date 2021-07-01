@@ -26,8 +26,12 @@ Contact:
 *********************************
 for any further queries
 
-Gmail     : arun.arunisto2@gmail.com
-Instagram : @arunisto
-Facebook  : arun arunisto
-LinkedIn  : arunisto
+
+   Gmail     : arun.arunisto2@gmail.com
+
+   Instagram : @arunisto
+
+   Facebook  : arun arunisto
+
+   LinkedIn  : arunisto
 
