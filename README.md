@@ -12,7 +12,7 @@ Installation:
 *******************************
 git clone <url>
 
-cd iplocator
+cd ip-dns_information_gathering
 
 ls 
 
